@@ -5,7 +5,7 @@
 
 
 ## <h4> Lanagage utilisé :  </h4> 
-<p> <a width="50px" height="50px" href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img></a>
+<p> <a width="50px" height="50px" href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"></img></a>
 
 
 - 📫 Contact me: **unebaguette@outlook.fr**
