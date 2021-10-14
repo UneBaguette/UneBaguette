@@ -1,6 +1,6 @@
-### <h2>Hi! 👋 My name is Thomas. 🇫🇷</h2>
+### <h2>Hi! 👋 My name is Thomas.</h2>
 
-<h3> <p align="center">I am currently studying at the solacroup institute in Dinard, France. I am learning different programming languages like C, Python. I will learn other programming languages like HTML, CSS and Javascript. </h3> </p>
+<h3> <p align="center">I am currently studying at the solacroup institute in Dinard, France 🇫🇷. I am learning different programming languages like C, Python. I will learn other programming languages like HTML, CSS and Javascript. </h3> </p>
 
 
 ## <h4> Lanagage utilisé :  </h4> 
