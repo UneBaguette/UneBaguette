@@ -3,7 +3,7 @@
 <h3> <p align="center">I am currently studying at the solacroup institute in Dinard, France 🇫🇷. I am learning different programming languages like C, Python. I will learn other programming languages like HTML, CSS and Javascript. </h3> </p>
 
 
-## <h4> Lanagage utilisé :  </h4> 
+## <h4> Programming Languages :  </h4> 
 ## <p> <a href="https://www.cprogramming.com/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png" width="35" height="35"></img></a> <a href="https://www.python.org/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" width="35" height="35"></img></a>
 
 
