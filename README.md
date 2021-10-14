@@ -5,7 +5,7 @@
 
 
 ## <h4> Lanagage utilisé :  </h4> 
-## <p> <a href="https://www.cprogramming.com/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png"></img></a> <a width="50px" height="50px" href="https://www.python.org/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" width="50px" height="50px></img></a>
+## <p> <a href="https://www.cprogramming.com/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png"></img></a> <a width="50px" height="50px" href="https://www.python.org/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png"></img></a>
 
 
 - 📫 Contact me: **unebaguette@outlook.fr**
