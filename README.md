@@ -4,7 +4,7 @@
 ## <h4> <p>I am currently studying at the solacroup institute in Dinard, France. I am learning different programming languages like C, Python. I will learn other programming languages like HTML, CSS and Javascript. </h4> </p>
 
 
-<h4> Lanagage utilisé : </h4> 
+## <h4> Lanagage utilisé : </h4> 
 
 
 
