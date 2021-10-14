@@ -5,9 +5,7 @@
 
 
 ## <h4> Lanagage utilisé :  </h4> 
-<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-
-[![C]https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg]https://www.cprogramming.com/
+<p> <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></img></a>
 
 
 - 📫 Contact me: **unebaguette@outlook.fr**
