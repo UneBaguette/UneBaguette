@@ -4,7 +4,8 @@
 
 
 ## <h3> Programming Languages :  </h3> 
-## <p> <a href="https://www.cprogramming.com/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_64x64.png" width="50" height="50"></img></a> <a href="https://www.python.org/"><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_64x64.png" width="50" height="50"></img></a>
+
+## <p> <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_64x64.png" width="50" height="50"></img></a> <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_64x64.png" width="50" height="50"></img></a> <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_64x64.png" width="50" height="50"></img></a> 
 
 
 - 📫 Contact me: **unebaguette@outlook.fr**
