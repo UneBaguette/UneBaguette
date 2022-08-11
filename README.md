@@ -1,5 +1,5 @@
 
-## <h2 align="left">Hi! 👋 My name is Thomas.</h2>
+<h2 align="left">Hi! 👋 My name is Thomas.</h2>
 
 ### <h3 align="left">Currently studying at Solacroup Institute. I am mostly doing front end development amon</h3>
 
