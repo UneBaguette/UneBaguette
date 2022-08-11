@@ -1,36 +1,5 @@
-<style>
-.Row {
-    margin-top: 20px;
-}
-.header {
-    display: flex;
-    justify-content: space-between;
-    max-width: 260px;
-}
-.shaking {
-    animation: shake 0.9s cubic-bezier(.71,.05,.25,.9) both infinite;
-}
-a {
-    margin-right: 20px;
-}
-@keyframes shake {
-    20%, 90% {
-        transform: translate3d(-2px, 0);
-    }
-    50%, 80% {
-        transform: translate3d(3px, 0, 0);
-    }
-    30%, 50%, 70% {
-        transform: translate3d(-2px, 0, 0);
-    }
-    40%, 60% {
-        transform: translate3d(4px, 0, 0);
-    }
-}
-</style>
 
-
-## <h2 align="left" class="header">Hi! <p class="shaking">👋</p> My name is Thomas.</h2>
+## <h2 align="left">Hi! 👋 My name is Thomas.</h2>
 
 #
 ### <h3 align="left">Currently studying at Solacroup Institute. I am mostly doing front end development amon</h3>
@@ -71,3 +40,35 @@ a {
 #
 
 - 📫 Contact me: **unebaguette@outlook.fr**
+
+
+<!-- <style>
+.Row {
+    margin-top: 20px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    max-width: 260px;
+}
+.shaking {
+    animation: shake 0.9s cubic-bezier(.71,.05,.25,.9) both infinite;
+}
+a {
+    margin-right: 20px;
+}
+@keyframes shake {
+    20%, 90% {
+        transform: translate3d(-2px, 0);
+    }
+    50%, 80% {
+        transform: translate3d(3px, 0, 0);
+    }
+    30%, 50%, 70% {
+        transform: translate3d(-2px, 0, 0);
+    }
+    40%, 60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+</style> -->
