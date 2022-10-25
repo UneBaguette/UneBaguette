@@ -1,9 +1,6 @@
 
 <h2 align="left">Hi! 👋 My name is Thomas.</h2>
 
-<p align="left">Currently studying at Solacroup Institute. I am mostly doing front end development.</p>
-
-
 # What i know :
 
 <h3>Programming languages</h3>
