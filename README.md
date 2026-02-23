@@ -8,6 +8,7 @@ Focused on building scalable systems and independent platforms.
 
 **Backend & Systems**
 - Java
+- C++
 - C / C#
 - TypeScript / JavaScript
 - Python
