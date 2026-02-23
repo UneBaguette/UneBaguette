@@ -8,20 +8,18 @@ Focused on building scalable systems and independent platforms.
 
 **Backend & Systems**
 - Java
-- C++
-- C / C#
-- TypeScript / JavaScript
+- C#
+- TypeScript / *JavaScript*
 - Python
 - PHP
 - Go
-- Rust
 
 **Frontend & Interfaces**
 - HTML / CSS / SCSS
 - React
 - Angular
 - Svelte
-- Symfony (**PHP**)
+- Symfony
 
 **Tools**
 - Git
