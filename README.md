@@ -28,13 +28,12 @@ Focused on building scalable systems and independent platforms.
 
 ## 🚀 Current Focus
 
-- Messaging systems & protocol-level applications  
+- Full-stack SaaS architecture
 - Infrastructure design & deployment  
-- Platform architecture  
 
 ## 🌍 Location
 
-France 🇫🇷 • Singapore 🇸🇬 • Philippines 🇵🇭
+France 🇫🇷 • Philippines 🇵🇭
 
 ## 🛠 Stats
 
