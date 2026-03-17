@@ -7,7 +7,6 @@ Focused on building scalable systems and independent platforms.
 ## ⚙️ Core Competencies
 
 **Backend & Systems**
-- Java
 - C#
 - TypeScript / *JavaScript*
 - Python
