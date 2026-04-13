@@ -34,6 +34,6 @@ France 🇫🇷 • Philippines 🇵🇭
 
 ## 🛠 Stats
 
-<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api?username=unebaguette&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="unebaguette" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api?username=unebaguette&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=400px" alt="unebaguette" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api/top-langs?username=unebaguette&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="unebaguette" /></p>
