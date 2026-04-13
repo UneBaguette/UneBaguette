@@ -6,23 +6,22 @@ Focused on building scalable systems and independent platforms.
 
 ## ⚙️ Core Competencies
 
-**Backend & Systems**
+### **Backend & Systems**
 - C#
 - TypeScript / *JavaScript*
 - PHP
 - Go
 
-**Frontend & Interfaces**
+### **Frontend & Interfaces**
 - HTML / CSS / SCSS
 - React
 - Angular
 - Svelte
 - Symfony
 
-**Tools**
+### **Tools**
 - Git
 - Linux
-- Figma
 
 ## 🚀 Current Focus
 
@@ -35,11 +34,6 @@ France 🇫🇷 • Philippines 🇵🇭
 
 ## 🛠 Stats
 
-<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api?username=unebaguette&show_icons=true&locale=en&theme=tokyonight" alt="unebaguette" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api?username=unebaguette&show_icons=true&locale=en&theme=synthwave&hide_border=true" alt="unebaguette" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api/top-langs?username=unebaguette&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="unebaguette" /></p>
-
-
----
-
-- 📫 Contact me: **tom@unebaguette.fr**
+<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api/top-langs?username=unebaguette&show_icons=true&theme=synthwave&locale=en&layout=compact&hide_border=true" alt="unebaguette" /></p>
