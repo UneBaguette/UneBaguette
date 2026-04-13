@@ -9,7 +9,6 @@ Focused on building scalable systems and independent platforms.
 **Backend & Systems**
 - C#
 - TypeScript / *JavaScript*
-- Python
 - PHP
 - Go
 
