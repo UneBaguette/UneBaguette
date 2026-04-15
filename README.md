@@ -1,39 +1,23 @@
+# hey
 
-# Hi! 👋 My name is Thomas.
+<img width="40" src="https://www.unebaguette.fr/stuff-idk/mj.gif" >
 
-I design and operate digital infrastructure.  
-Focused on building scalable systems and independent platforms.
+## who
 
-## ⚙️ Core Competencies
+A French guy minding his business.
 
-### **Backend & Systems**
-- C#
-- TypeScript
-- PHP
-- Go
-- Symfony
+## what i'm doing
 
-### **Frontend Stuff**
-- Plain HTML
-- React
-- Angular
-- Svelte
+Currently building a privacy focused product.
 
-### **Tools & Misc**
-- Git
-- Linux
+## what lives here
 
-## 🚀 Current Focus
+Mostly side quests. I don't host serious stuff here.
 
-- Full-stack SaaS architecture
-- Infrastructure design & deployment  
+<img width="90" src="https://www.unebaguette.fr/stuff-idk/tt.webp" >
 
-## 🌍 Location
+## languages I argue with
 
-France 🇫🇷 • Philippines 🇵🇭
-
-## 🛠 Stats
-
-<p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api?username=unebaguette&show_icons=true&locale=en&theme=tokyonight&hide_border=true&custom_title=UneBaguette%20Stats" alt="unebaguette" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api?username=unebaguette&show_icons=true&locale=en&theme=tokyonight&hide_border=true&custom_title=UneBaguette%20Stats" alt="unebaguette" /></p> -->
 
 <p align="left"><img align="center" src="https://github-readme-stats-ten-eta-56.vercel.app/api/top-langs?username=unebaguette&show_icons=true&card_width=450&theme=tokyonight&locale=en&layout=compact&hide_border=true&langs_count=6&hide=javascript,css,scss,html,ejs,hack&size_weight=0.5&count_weight=0.5&custom_title=Damn%20Languages" alt="unebaguette" /></p>
